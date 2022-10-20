@@ -1,6 +1,10 @@
 import React  from 'react';
+// import { fetchCake } from './cakeAPI';
 
 export default function ReduxAssessmentTable() {
+
+  // console.log(await fetchCake())
+
   return (
     <table id="reduxAssessmentTable">
       <thead>
